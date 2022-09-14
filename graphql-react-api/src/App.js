@@ -20,6 +20,9 @@ const GET_NAME_RATE = gql`
         name
         home_port
         image
+        image
+        id
+        status
       }
     }
   }
